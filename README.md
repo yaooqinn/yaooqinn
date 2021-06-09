@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NetEase&repo=kyuubi)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=yaooqinn&show_icons=true" alt="logo" height="160" align="left" style="margin: 10px; margin-bottom: 20px;"/>
-<img src="https://github-profile-trophy.vercel.app/?username=yaooqinn&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;"/>
-
