@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🦊 Apache Kyuubi PMC Chair, Vice President
+- ✨ Apache Spark Committer
+- 🚢 Apache Submarine Committer 
+
 <div id="dog" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMyZDBtajg0cjJ6YmtmeHBod2k3ZjVhMGlkZmV0NXlkZTFjZDRtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="250"/>
 </div>
