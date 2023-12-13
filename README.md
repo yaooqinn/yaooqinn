@@ -54,5 +54,11 @@ Here are some ideas to get you started:
     <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaooqinn&theme=github" /></a>
     <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaooqinn&theme=github&utcOffset=8" /></a>
   </div>
+</div>
 
+---
+<div align="center">
+  
+  - 2020/12 Apache Submarine Committer
+  - 2021/03 Apache Spark Committer
 </div>
