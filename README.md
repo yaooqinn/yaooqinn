@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<div align="center">
-  
-  - 2020/12 Apache Submarine Committer
-  - 2021/03 Apache Spark Committer
-</div>
+
+- 2023/05 [2022中国互联网发展创新与投资大赛公益项目暨2022年中国开源创新大赛 - 二等奖](http://bjos.oschina.net/juesaihuojiaingddanzhengshif-n121.html)
+- 2020/12 Apache Submarine Committer
+- 2021/03 Apache Spark Committer
