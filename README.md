@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+### My Journey of Open Source  👋
+
 - 2023/12 OpenAtom Foundation '2023生态开源项目' for Apache Kyuubi
 - 2023/11 Apache Incubator PMC Member
 - 2023/10 NetEase Technology Award
