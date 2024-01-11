@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 ### My Journey of Open Source  👋
 
+- 2024/01 Apache Gluten(Incubating) Mentor and PPMC Member
 - 2023/12 OpenAtom Foundation '2023生态开源项目' for Apache Kyuubi
 - 2023/11 Apache Incubator PMC Member
 - 2023/10 NetEase Technology Award
