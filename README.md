@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 - 2023/10 NetEase Technology Award
 - 2023/09 中国信通院 '2023 OSCAR 尖峰开源人物'
 - 2023/05 '[2022中国互联网发展创新与投资大赛公益项目暨2022年中国开源创新大赛 - 二等奖](http://bjos.oschina.net/juesaihuojiaingddanzhengshif-n121.html)'
-- 2022/12 Apache Kyuubi PMC Chair, Vice President
+- 2022/12 [Apache Kyuubi](https://kyuubi.apache.org/) PMC Chair, Vice President
 - 2022/12 [Apache Kyuubi becomes Apache Software Foundation Top-level Project](https://news.apache.org/foundation/entry/apache-kyuubi-becomes-top-level-project)
 - 2022/10 NetEase Technology Award
 - 2022/09 中国信息通信研究院、中国通信标准化协会 '2022 OSCAR 开源产业大会尖峰开源项目' for Apache Kyuubi(Incubating)
-- 2022/06 The 2022 ACM SIGMOD Systems Award
+- 2022/06 [The 2022 ACM SIGMOD Systems Award](https://sigmod.org/2022-sigmod-systems-award/)
 - 2022/05 中国信息通信研究院'可信开源社区共同体' for Apache Kyuubi(Incubating)
 - 2022/02 中国科协 '2021 “科创中国”开源创新榜' for Apache Kyuubi(Incubating)
 - 2021/10 NetEase Technology Award
 - 2021/08 [Databricks Beacons Program Member](https://www.databricks.com/discover/beacons)
 - 2021/06 Donated NetEase/Kyuubi into the Apache Incubator
-- 2021/02 Apache Spark Committer
-- 2020/12 Apache Submarine Committer
+- 2021/02 [Apache Spark](https://spark.apache.org/) Committer
+- 2020/12 [Apache Submarine](https://submarine.apache.org/) Committer
