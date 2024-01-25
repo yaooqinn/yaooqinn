@@ -136,7 +136,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td>2022/02</td>
-      <td>中国科协</td>
+      <td>中国科学技术协会</td>
       <td>2021 “科创中国”开源创新榜: Apache Kyuubi(Incubating)</td>
     </tr>
     <tr>
