@@ -60,21 +60,109 @@ Here are some ideas to get you started:
 
 ### My Journey of Open Source  👋
 
-- 2024/01 Apache Gluten(Incubating) Mentor and PPMC Member
-- 2023/12 OpenAtom Foundation '2023生态开源项目' for Apache Kyuubi
-- 2023/11 Apache Incubator PMC Member
-- 2023/10 NetEase Technology Award
-- 2023/09 中国信通院 '2023 OSCAR 尖峰开源人物'
-- 2023/05 '[2022中国互联网发展创新与投资大赛公益项目暨2022年中国开源创新大赛 - 二等奖](http://bjos.oschina.net/juesaihuojiaingddanzhengshif-n121.html)'
-- 2022/12 [Apache Kyuubi](https://kyuubi.apache.org/) PMC Chair, Vice President
-- 2022/12 [Apache Kyuubi becomes Apache Software Foundation Top-level Project](https://news.apache.org/foundation/entry/apache-kyuubi-becomes-top-level-project)
-- 2022/10 NetEase Technology Award
-- 2022/09 中国信息通信研究院、中国通信标准化协会 '2022 OSCAR 开源产业大会尖峰开源项目' for Apache Kyuubi(Incubating)
-- 2022/06 [The 2022 ACM SIGMOD Systems Award](https://sigmod.org/2022-sigmod-systems-award/)
-- 2022/05 中国信息通信研究院'可信开源社区共同体' for Apache Kyuubi(Incubating)
-- 2022/02 中国科协 '2021 “科创中国”开源创新榜' for Apache Kyuubi(Incubating)
-- 2021/10 NetEase Technology Award
-- 2021/08 [Databricks Beacons Program Member](https://www.databricks.com/discover/beacons)
-- 2021/06 Donated NetEase/Kyuubi into the Apache Incubator
-- 2021/02 [Apache Spark](https://spark.apache.org/) Committer
-- 2020/12 [Apache Submarine](https://submarine.apache.org/) Committer
+<table align="center">
+  <thead>
+    <tr align="center">
+      <td>Year/Month</td>
+      <td>Orgnization</td>
+      <td>Event</td>
+    </tr>
+  </thead>
+  <tboday>
+    <tr>
+      <td>2024/01</td>
+      <td>SegmentFault 思否</br>开源社</td>
+      <td>2023 中国开源先锋 33 人</td>
+    </tr>
+    <tr>
+      <td>2024/01</td>
+      <td>Apache Software Foundation</td>
+      <td>Apache Gluten(Incubating) Mentor and PPMC Member</td>
+    </tr>
+    <tr>
+      <td>2023/12</td>
+      <td>OpenAtom Foundation</td>
+      <td>2023生态开源项目: Apache Kyuubi</td>
+    </tr>
+    <tr>
+      <td>2023/11</td>
+      <td>Apache Software Foundation</td>
+      <td>Apache Incubator PMC Member</td>
+    </tr>
+    <tr>
+      <td>2023/10</td>
+      <td>NetEase Corp.</td>
+      <td>NetEase Technology Award</td>
+    </tr>
+    <tr>
+      <td>2023/09</td>
+      <td>中国信息通信研究院</td>
+      <td>2023 OSCAR 尖峰开源人物</td>
+    </tr>
+    <tr>
+      <td>2023/05</td>
+      <td>中央网信办信息化发展局</td>
+      <td><a href='http://bjos.oschina.net/juesaihuojiaingddanzhengshif-n121.html'>2022年中国开源创新大赛 - 二等奖</a></td>
+    </tr>
+    <tr>
+      <td>2022/12</td>
+      <td>Apache Software Foundation</td>
+      <td>Apache Kyuubi PMC Chair, Vice President</td>
+    </tr>
+    <tr>
+      <td>2022/12</td>
+      <td>Apache Software Foundation</td>
+      <td><a href='https://news.apache.org/foundation/entry/apache-kyuubi-becomes-top-level-project'>Apache Kyuubi becomes Apache Software Foundation Top-level Project</a></td>
+    </tr>
+    <tr>
+      <td>2022/10</td>
+      <td>NetEase Corp.</td>
+      <td>NetEase Technology Award</td>
+    </tr>
+    <tr>
+      <td>2022/09</td>
+      <td>中国信息通信研究院</br>中国通信标准化协会</td>
+      <td>2022 OSCAR 开源产业大会尖峰开源项目: Apache Kyuubi(Incubating)</td>
+    </tr>
+    <tr>
+      <td>2022/06</td>
+      <td>ACM SIGMOD</td>
+      <td><a href='https://sigmod.org/2022-sigmod-systems-award/'>The 2022 ACM SIGMOD Systems Award</a></td>
+    </tr>
+    <tr>
+      <td>2022/05</td>
+      <td>中国信息通信研究院</td>
+      <td>可信开源社区共同体: Apache Kyuubi(Incubating)</td>
+    </tr>
+    <tr>
+      <td>2022/02</td>
+      <td>中国科协</td>
+      <td>2021 “科创中国”开源创新榜: Apache Kyuubi(Incubating)</td>
+    </tr>
+    <tr>
+      <td>2021/10</td>
+      <td>NetEase Corp.</td>
+      <td>NetEase Technology Award</td>
+    </tr>
+    <tr>
+      <td>2021/08</td>
+      <td>Databricks</td>
+      <td><a href='https://www.databricks.com/discover/beacons'>Databricks Beacons Program Member</a></td>
+    </tr>
+    <tr>
+      <td>2021/06</td>
+      <td>Apache Software Foundation</td>
+      <td>Donated NetEase/Kyuubi into the Apache Incubator</td>
+    </tr>
+    <tr>
+      <td>2021/02</td>
+      <td>Apache Software Foundation</td>
+      <td>Apache Spark Committer</td>
+    </tr>
+    <tr>
+      <td>2020/12</td>
+      <td>Apache Software Foundation</td>
+      <td>Apache Submarine Committer</td>
+    </tr>
+  </tboday>
+</table>
