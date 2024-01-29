@@ -152,6 +152,11 @@ Here are some ideas to get you started:
     <tr>
       <td>2021/06</td>
       <td>Apache Software Foundation</td>
+      <td>Apache Kyuubi(Incubating) PPMC Member</td>
+    </tr>
+    <tr>
+      <td>2021/06</td>
+      <td>Apache Software Foundation</td>
       <td>Donated NetEase/Kyuubi into the Apache Incubator</td>
     </tr>
     <tr>
