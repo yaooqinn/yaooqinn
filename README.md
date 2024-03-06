@@ -42,7 +42,7 @@
 
 ---
 
-### My Journey of Open Source  👋
+<h3 align="center">My Journey of Open Source  👋</h3>
 
 <table align="center">
   <thead>
