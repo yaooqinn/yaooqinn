@@ -1,5 +1,4 @@
-### Kent Yao | Qin Yao | 燕青(网易) 👋
-
+<h3 align="center">Kent Yao | Qin Yao | 燕青(网易) 👋 </h3>
 <div align="center">
   <div>
     <li>🦊 Apache Kyuubi PMC Chair, Vice President</li>
