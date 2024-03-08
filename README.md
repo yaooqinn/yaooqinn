@@ -1,10 +1,11 @@
 <h3 align="center">Kent Yao | Qin Yao | 燕青(网易) 👋 </h3>
 <div align="center">
   <div>
+    <li>🧑‍🤝‍🧑 Apache Member</li>
+    <li>🍼 Apache Incubator PMC Member</li>
     <li>🦊 Apache Kyuubi PMC Chair, Vice President</li>
     <li>✨ Apache Spark Committer</li>
     <li>🚢 Apache Submarine Committer</li>
-    <li>🍼 Apache Incubator PMC Member</li>
     <li>🧱 <a href="https://databricks.com/discover/beacons/kent-yao">Databricks Beacons Program Member</a></li>
   </div>
 </div>
