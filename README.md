@@ -1,8 +1,8 @@
 <h3 align="center">Kent Yao | Qin Yao | 燕青(网易) 👋 </h3>
 <div align="center">
   <div>
-    <li>🧑‍🤝‍🧑 Apache Member</li>
-    <li>🍼 Apache Incubator PMC Member</li>
+    <li>🧑‍🤝‍🧑 <a href='https://www.apache.org/foundation/members'>ASF Member</a></li>
+    <li>🍼 <a href='https://incubator.apache.org/'>Apache Incubator</a> PMC Member</li>
     <li>🦊 Apache Kyuubi PMC Chair, Vice President</li>
     <li>✨ Apache Spark Committer</li>
     <li>🚢 Apache Submarine Committer</li>
@@ -57,7 +57,7 @@
     <tr>
       <td>2024/03</td>
       <td>Apache Software Foundation</td>
-      <td>Apache Member</td>
+      <td><a href='https://www.apache.org/foundation/members'>ASF Member</a></td>
     </tr>
     <tr>
       <td>2024/01</td>
@@ -77,7 +77,7 @@
     <tr>
       <td>2023/11</td>
       <td>Apache Software Foundation</td>
-      <td>Apache Incubator PMC Member</td>
+      <td><a href='https://incubator.apache.org/'>Apache Incubator</a> PMC Member</td>
     </tr>
     <tr>
       <td>2023/10</td>
