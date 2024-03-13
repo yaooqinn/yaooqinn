@@ -57,6 +57,11 @@
     <tr>
       <td>2024/03</td>
       <td>Apache Software Foundation</td>
+      <td><a href='https://amoro.apache.org/'>Apache Amoro(Incubating)</a> Mentor and PPMC Member</td>
+    </tr>
+    <tr>
+      <td>2024/03</td>
+      <td>Apache Software Foundation</td>
       <td><a href='https://www.apache.org/foundation/members'>ASF Member</a></td>
     </tr>
     <tr>
@@ -67,7 +72,7 @@
     <tr>
       <td>2024/01</td>
       <td>Apache Software Foundation</td>
-      <td>Apache Gluten(Incubating) Mentor and PPMC Member</td>
+      <td><a href='https://gluten.apache.org/'>Apache Gluten(Incubating)</a> Mentor and PPMC Member</td>
     </tr>
     <tr>
       <td>2023/12</td>
