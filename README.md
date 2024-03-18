@@ -3,9 +3,9 @@
   <div>
     <li>🧑‍🤝‍🧑 <a href='https://www.apache.org/foundation/members'>ASF Member</a></li>
     <li>🍼 <a href='https://incubator.apache.org/'>Apache Incubator</a> PMC Member</li>
-    <li>🦊 Apache Kyuubi PMC Chair, Vice President</li>
-    <li>✨ Apache Spark Committer</li>
-    <li>🚢 Apache Submarine Committer</li>
+    <li>🦊 <a href='https://github.com/apache/kyuubi'>Apache Kyuubi</a> PMC Chair, Vice President</li>
+    <li>✨ <a href='https://github.com/apache/spark'>Apache Spark</a> Committer</li>
+    <li>🚢 <a href='https://github.com/apache/submarine'>Apache Submarine</a> Committer</li>
     <li>🧱 <a href="https://databricks.com/discover/beacons/kent-yao">Databricks Beacons Program Member</a></li>
   </div>
 </div>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJB4x5YuERIWS4U0i82A4XQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-resubmarined?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/kent_zju">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
