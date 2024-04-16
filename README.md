@@ -62,7 +62,7 @@
     <tr>
       <td>2024/03</td>
       <td>Apache Software Foundation</td>
-      <td><a href='https://www.apache.org/foundation/members'>ASF Member</a></td>
+      <td><a href='https://www.apache.org/foundation/members'>ASF Member</a><sup><a  href='https://news.apache.org/foundation/entry/apache-software-foundation-welcomes-59-new-members'>news</a></sup></td>
     </tr>
     <tr>
       <td>2024/01</td>
