@@ -29,16 +29,6 @@
     <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaooqinn&theme=github" /></a>
     <a><img src="https://streak-stats.demolab.com?user=yaooqinn&theme=github-light&mode=weekly" alt="GitHub Streak" /></a>
   </div>
-  
-  <div>
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaooqinn&theme=github" /></a>
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaooqinn&theme=github" /></a>
-  </div>
-  
-  <div>
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaooqinn&theme=github" /></a>
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaooqinn&theme=github&utcOffset=8" /></a>
-  </div>
 </div>
 
 ---
