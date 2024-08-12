@@ -4,7 +4,7 @@
     <div><img src="https://www.apache.org/foundation/press/kit/feather.svg" width="12" height="21" /> <a href='https://www.apache.org/foundation/members'>ASF Member</a></div>
     <div><img src="https://apache.org/logos/res/incubator/incubator_highres.png" width="72" height="16.76" /> <a href='https://incubator.apache.org/'>Apache Incubator</a> PMC Member</div>
     <div><img src="https://apache.org/logos/res/kyuubi/kyuubi-1_highres.png" width="72" height="21.18" /> <a href='https://github.com/apache/kyuubi'>Apache Kyuubi</a> PMC Chair, Vice President</div>
-    <div><img src="https://apache.org/logos/res/spark/spark_highres.png" width="36" height="18.72" /> <a href='https://github.com/apache/spark'>Apache Spark</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/spark/spark_highres.png" width="36" height="18.72" /> <a href='https://github.com/apache/spark'>Apache Spark</a> PMC Member and Committer</div>
     <div><img src="https://apache.org/logos/res/gluten/gluten_highres.png" width="72" height="24.86" /> <a href='https://github.com/apache/incubator-gluten'>Apache Gluten</a> Mentor, PPMC</div>
     <div><img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg" width="24" height="24" /> <a href="https://databricks.com/discover/beacons/kent-yao">Databricks Beacons Program Member</a></div>
   </div>
@@ -44,6 +44,11 @@
     </tr>
   </thead>
   <tboday>
+    <tr>
+      <td>2024/08</td>
+      <td>Apache Software Foundation</td>
+      <td><a href='https://spark.apache.org/'>Apache Spark</a> PMC Member</td>
+    </tr>
     <tr>
       <td>2024/03</td>
       <td>Apache Software Foundation</td>
