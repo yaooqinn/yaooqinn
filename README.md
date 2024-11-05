@@ -45,9 +45,19 @@
   </thead>
   <tboday>
     <tr>
+      <td>2024/10</td>
+      <td>Apache Software Foundation</td>
+      <td><a href='https://cloudberry.apache.org/'>Apache Cloudberry</a> Mentor and PPMC Member </td>
+    </tr>
+    <tr>
       <td>2024/08</td>
       <td>Apache Software Foundation</td>
       <td><a href='https://spark.apache.org/'>Apache Spark</a> PMC Member</td>
+    </tr>
+    <tr>
+      <td>2024/07</td>
+      <td>Apache Software Foundation</td>
+      <td><a href='https://polaris.apache.org/'>Apache Polaris</a> Mentor and PPMC Member</td>
     </tr>
     <tr>
       <td>2024/03</td>
