@@ -6,7 +6,7 @@
     <div><img src="https://apache.org/logos/res/kyuubi/kyuubi-1_highres.png" width="72" height="21.18" /> <a href='https://github.com/apache/kyuubi'>Apache Kyuubi</a> PMC Chair, Vice President</div>
     <div><img src="https://apache.org/logos/res/spark/spark_highres.png" width="36" height="18.72" /> <a href='https://github.com/apache/spark'>Apache Spark</a> PMC Member and Committer</div>
     <div><img src="https://apache.org/logos/res/gluten/gluten_highres.png" width="72" height="24.86" /> <a href='https://github.com/apache/incubator-gluten'>Apache Gluten</a> Mentor, PPMC</div>
-    <div><img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg" width="24" height="24" /> <a href="https://databricks.com/discover/beacons/kent-yao">Databricks Beacons Program Member</a></div>
+    <div><img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg" width="24" height="24" /> <a href="https://credentials.databricks.com/f69a30fe-1485-4769-8183-d9ac7e9baf90">Databricks MVP</a></div>
   </div>
 </div>
 
