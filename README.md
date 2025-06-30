@@ -1,4 +1,4 @@
-<h3 align="center">Kent Yao | Qin Yao | 燕青 </h3>
+<h3 align="center">Kent Yao </h3>
 <div align="center">
   <div>
     <div><img src="https://www.apache.org/foundation/press/kit/feather.svg" width="12" height="21" /> <a href='https://www.apache.org/foundation/members'>ASF Member</a></div>
